@@ -1,8 +1,6 @@
 ---
 # Minicurso: **CURSO DE APLICAÇÕES DE SATÉLITE PARA NOWCASTING**
-
 ---
-
 **OBJETIVO:** A parte prática do curso tem como objetivo ensinar a utilização dos dados
 e produtos de satélite para monitoramento em tempo real e nowcasting
 (previsão dentro de um período de 0-6 horas).
