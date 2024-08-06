@@ -1,4 +1,3 @@
-# minicurso_nowcasting_CPAM2024
 ---
 # Minicurso: **CURSO DE APLICAÇÕES DE SATÉLITE PARA NOWCASTING**
 
