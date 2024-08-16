@@ -4,7 +4,7 @@
 
 ---
 
-# Minicurso: **CURSO DE APLICAÇÕES DE SATÉLITE PARA NOWCASTING**
+# Minicurso: **APLICAÇÕES DE SATÉLITE PARA NOWCASTING**
 
 ---
 
