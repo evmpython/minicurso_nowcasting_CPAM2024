@@ -1,3 +1,7 @@
+
+![alt text](https://github.com/evmpython/minicurso_nowcasting_CPAM2024/blob/main/logo_nowcasting.png?raw=true)
+
+
 ---
 
 # Minicurso: **CURSO DE APLICAÇÕES DE SATÉLITE PARA NOWCASTING**
