@@ -8,6 +8,8 @@
 e produtos de satélite para monitoramento em tempo real e nowcasting
 (previsão dentro de um período de 0-6 horas).
 
+---
+
 **OBSERVAÇÕES IMPORTANTES**:
 1. Este código foi desenvolvido para ser processado no [Google Colaboratory](https://colab.research.google.com/).
 2. Os dados e códigos do curso também estão disponíveis no [github do curso](https://github.com/evmpython/minicurso_nowcasting_CPAM2024).
